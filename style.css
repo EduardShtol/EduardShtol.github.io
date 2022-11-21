@@ -17,10 +17,7 @@
 	font-weight:90
 }
 
-#test:hover{
-	transform:rotate(360deg)scale(0.3);
-	background-color:red;
-}
+
 body {
     margin: 0;
     height: 100vh;
@@ -53,7 +50,7 @@ button:hover{
     width: 0px;
     opacity: .75;
     background-color: white;
-    box-shadow: #e9f1f1 0px 0px 20px 2px;
+    box-shadow: #0000CD 45px 79px 20px 19px;
     opacity: 0;
     top: 100vh;
     bottom: 0px;
