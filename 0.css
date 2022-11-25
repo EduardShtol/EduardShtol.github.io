@@ -19,7 +19,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
  
-  background-size: 1000% 1000%;
+  background-size: 400% 400%;
   animation: Gradient 15s ease infinite;
   position: relative;
   height: 100vh;
