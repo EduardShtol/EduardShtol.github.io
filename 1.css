@@ -23,9 +23,12 @@ body, body {
   width: 100%;
   height: 100%;
 }
+
+
+
 .link-ease-in-out a {
     display: inline-block;
-    color: #00bfff; /* Цвет обычной ссылки */
+    color: #FFFFFF; /* Цвет обычной ссылки */
     line-height: 1;
     text-decoration: none; /* Убираем подчеркивание */
     cursor: pointer;
@@ -92,4 +95,12 @@ p {
 }
 .neon-btn:hover, .neon-btn:focus {
   outline: 0;
+}
+
+h1{
+  color: #FFFFFF;
+  background: rgba(255,255,255,.2);
+  padding: 20px;
+  font-size: 50px;
+  border-radius: 10px;
 }
